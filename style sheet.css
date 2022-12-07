@@ -1,0 +1,23 @@
+.body{background-color: aqua;
+    text-align: center;
+    
+    
+}
+table{ 
+    
+}
+.he{color: rgb(43, 0, 255);
+    
+
+
+}
+.div1{display:grid; 
+grid-template-columns: 1fr 1fr;
+background-color: greenyellow;}
+.div{margin-top: 10px;
+ }
+ .h1{font-size: 80px;}
+ div{text-align: center;
+    display: grid;
+    place-items: center;
+}
